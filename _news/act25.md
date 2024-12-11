@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Member of the program committee for <a href="https://https://gataslab.org/act2025/act2025cfp">ACT 2025</a>.
+Member of the program committee for <a href="https://gataslab.org/act2025/act2025cfp">ACT 2025</a>.
