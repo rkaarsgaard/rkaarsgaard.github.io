@@ -16,13 +16,12 @@ href="mailto:kaarsgaard@imada.sdu.dk">get in touch</a> to schedule a
 meeting with me (if you have it, I'd appreciate it if you would
 enclose your CV and publication list).
 
-
 ### Current students
 
-* Joachim Tilsted Kristensen (PhD, 2022--, co-supervised with Michael
+- Joachim Tilsted Kristensen (PhD, 2022--, co-supervised with Michael
   Kirkedal Thomsen)
-* Paul Schwartz (MSc, 2024--, BSc 2023)
-* Simon Bang (MSc, 2024--, BSc 2023)
+- Paul Schwartz (MSc, 2024--, BSc 2023)
+- Simon Bang (MSc, 2024--, BSc 2023)
 
 I am additionally co-supervising three postdoctoral researchers at the
 University of Edinburgh as part of my involvement with the <a
@@ -31,20 +30,20 @@ DUQ</a> project.
 
 ### Former students
 
-* Frederik List (BSc, 2024)
-* Christian Nesting (BSc, 2023)
-* Marcus Bruun Pedersen (BSc, 2023)
-* Rohan Nittur (MInf, 2022)
-* Wei Zhen Peong (MInf, 2022)
-* Mingrui Zou (MInf, 2022)
-* Victor Antonio López Martínez (MSc, 2022)
-* Mikkel Kragh Mathiesen (PhD, 2018--2023, co-supervised with Fritz
+- Frederik List (BSc, 2024)
+- Christian Nesting (BSc, 2023)
+- Marcus Bruun Pedersen (BSc, 2023)
+- Rohan Nittur (MInf, 2022)
+- Wei Zhen Peong (MInf, 2022)
+- Mingrui Zou (MInf, 2022)
+- Victor Antonio López Martínez (MSc, 2022)
+- Mikkel Kragh Mathiesen (PhD, 2018--2023, co-supervised with Fritz
   Henglein 2021--2023)
-* Jeppe Werner Laursen (MSc, 2021)
-* Marco Aslak Persson (BSc, 2019)
-* Trine Dag Randløv (BSc, 2019)
-* Alexander Meinhardt Scheurer (BSc, 2019)
-* Petur Andrias Højgaard Jacobsen (MSc, 2018)
-* Xiaomo Yao (MSc, 2018)
-* Anders Frederik Jørgensen (BSc, 2018)
-* Lars-Bo Vadgaard Nielsen (BSc, 2018)
+- Jeppe Werner Laursen (MSc, 2021)
+- Marco Aslak Persson (BSc, 2019)
+- Trine Dag Randløv (BSc, 2019)
+- Alexander Meinhardt Scheurer (BSc, 2019)
+- Petur Andrias Højgaard Jacobsen (MSc, 2018)
+- Xiaomo Yao (MSc, 2018)
+- Anders Frederik Jørgensen (BSc, 2018)
+- Lars-Bo Vadgaard Nielsen (BSc, 2018)
