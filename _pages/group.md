@@ -25,7 +25,7 @@ enclose your CV and publication list).
 
 I am additionally co-supervising three postdoctoral researchers at the
 University of Edinburgh as part of my involvement with the <a
-href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X025551/1">Rubber
+href="https://gtr.ukri.org/projects?ref=EP%2FX025551%2F1#/tabOverview">Rubber
 DUQ</a> project.
 
 ### Former students
