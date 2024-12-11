@@ -1,25 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profil2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am (tenure-track) assistant professor in the <a href="https://acp.sdu.dk">Section for Artificial Intelligence, Cybersecurity, and Programming Languages</a> and the <a href="https://www.sdu.dk/qm">Centre for Quantum Mathematics</a> at the <a href="https://imada.sdu.dk">Department of Mathematics and Computer Science</a> at <a href="https://www.sdu.dk/en">University of Southern Denmark</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on quantum foundations and quantum programming languages (especially their semantics), and more broadly on the applications of category theory in computer science.
