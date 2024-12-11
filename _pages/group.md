@@ -32,6 +32,7 @@ DUQ</a> project.
 
 - Frederik List (BSc, 2024)
 - Christian Nesting (BSc, 2023)
+- Alejandro García Peláez (research intern, 2023)
 - Marcus Bruun Pedersen (BSc, 2023)
 - Rohan Nittur (MInf, 2022)
 - Wei Zhen Peong (MInf, 2022)
@@ -43,6 +44,7 @@ DUQ</a> project.
 - Marco Aslak Persson (BSc, 2019)
 - Trine Dag Randløv (BSc, 2019)
 - Alexander Meinhardt Scheurer (BSc, 2019)
+- Jonathan Wraa-Hansen (BSc, 2019)
 - Petur Andrias Højgaard Jacobsen (MSc, 2018)
 - Xiaomo Yao (MSc, 2018)
 - Anders Frederik Jørgensen (BSc, 2018)
