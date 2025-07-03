@@ -16,20 +16,19 @@ href="mailto:kaarsgaard@imada.sdu.dk">get in touch</a> to schedule a
 meeting with me (if you have it, I'd appreciate it if you would
 enclose your CV and publication list).
 
-### Current students
+### Current students and postdocs
 
-- Joachim Tilsted Kristensen (PhD, 2022--, co-supervised with Michael
+- Joachim Tilsted Kristensen (PhD at Oslo University, 2022--; co-supervised with Michael
   Kirkedal Thomsen)
-- Paul Schwartz (MSc, 2024--, BSc 2023)
-- Simon Bang (MSc, 2024--, BSc 2023)
+- Malin Altenmüller (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
+- Wang Fang (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
+- Louis Lemonier (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
 
-I am additionally co-supervising three postdoctoral researchers at the
-University of Edinburgh as part of my involvement with the <a
-href="https://gtr.ukri.org/projects?ref=EP%2FX025551%2F1#/tabOverview">Rubber
-DUQ</a> project.
 
-### Former students
+### Former students and postdocs
 
+- Paul Schwartz (MSc, 2025; BSc 2023)
+- Simon Bang (MSc, 2025; BSc 2023)
 - Frederik List (BSc, 2024)
 - Christian Nesting (BSc, 2023)
 - Alejandro García Peláez (research intern, 2023)
@@ -38,7 +37,7 @@ DUQ</a> project.
 - Wei Zhen Peong (MInf, 2022)
 - Mingrui Zou (MInf, 2022)
 - Victor Antonio López Martínez (MSc, 2022)
-- Mikkel Kragh Mathiesen (PhD, 2018--2023, co-supervised with Fritz
+- Mikkel Kragh Mathiesen (PhD, 2023; co-supervised with Fritz
   Henglein 2021--2023)
 - Jeppe Werner Laursen (MSc, 2021)
 - Marco Aslak Persson (BSc, 2019)
