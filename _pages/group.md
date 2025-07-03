@@ -24,7 +24,6 @@ enclose your CV and publication list).
 - Wang Fang (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
 - Louis Lemonier (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
 
-
 ### Former students and postdocs
 
 - Paul Schwartz (MSc, 2025; BSc 2023)
