@@ -18,7 +18,7 @@ enclose your CV and publication list).
 
 ### Current students and postdocs
 
-- Joachim Tilsted Kristensen (PhD at Oslo University, 2022--; co-supervised with Michael
+- Joachim Tilsted Kristensen (PhD at University of Oslo, 2022--; co-supervised with Michael
   Kirkedal Thomsen)
 - Malin Altenmüller (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
 - Wang Fang (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
