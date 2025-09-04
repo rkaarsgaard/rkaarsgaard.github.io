@@ -18,6 +18,7 @@ enclose your CV and publication list).
 
 ### Current students and postdocs
 
+- Giacomo Fagioli (MSc, 2025--; co-supervised with Marco Peressotti)
 - Joachim Tilsted Kristensen (PhD at University of Oslo, 2022--; co-supervised with Michael
   Kirkedal Thomsen)
 - Malin Altenmüller (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
