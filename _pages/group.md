@@ -8,16 +8,17 @@ nav_order: 6
 
 **For prospective students:** Whether you're a PhD student or postdoc
 looking to apply for external funding (e.g., Marie Skłodowska-Curie
-Fellowship, DeiC Fellowship, otherwise) to work with me; a bachelor or
-master's student looking to write a thesis within my area of
-expertise; or an advanced bachelor's or master's student looking to do
-a research internship, please <a
+Fellowship, DARA Fellowship, DeiC Fellowship, otherwise) to work with
+me; a bachelor or master's student looking to write a thesis within my
+area of expertise; or an advanced bachelor's or master's student
+looking to do a research internship, please <a
 href="mailto:kaarsgaard@imada.sdu.dk">get in touch</a> to schedule a
 meeting with me (if you have it, I'd appreciate it if you would
 enclose your CV and publication list).
 
 ### Current students and postdocs
 
+- Benjamin Clausen Bennetzen (PhD at Aalborg University, 2025--; co-supervised with Giorgio Bacci)
 - Giacomo Fagioli (MSc, 2025--; co-supervised with Marco Peressotti)
 - Joachim Tilsted Kristensen (PhD at University of Oslo, 2022--; co-supervised with Michael
   Kirkedal Thomsen)

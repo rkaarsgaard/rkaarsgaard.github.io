@@ -11,11 +11,11 @@ nav_order: 6
 
 I am currently teaching/set to teach:
 
-- Autumn 2025: QC803 Quantum Platforms and Programming
 - Spring 2026: QC804 Quantum Algorithms
 
 In the past, I have taught:
 
+- Autumn 2025: QC803 Quantum Platforms and Programming
 - Spring 2025: DM893 _Quantum Computing_
 - Autumn 2024: DM580 _Functional Programming_
 - Spring 2024: DM575 _Objektorienteret programmering_
