@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be speaking at the <a href="https://projects.au.dk/quantum/qubit-seminars">QUBITS Seminars</a> at Aarhus University on March 2.
+I will speak at the <a href="https://projects.au.dk/quantum/qubit-seminars">QUBITS Seminars</a> at Aarhus University on March 2.
