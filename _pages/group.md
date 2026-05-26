@@ -18,6 +18,7 @@ enclose your CV and publication list).
 
 ### Current students and postdocs
 
+- Mark Damon Walker (PhD at University of Southern Denmark, 2026--)
 - Benjamin Clausen Bennetzen (PhD at Aalborg University, 2025--; co-supervised with Giorgio Bacci)
 - Giacomo Fagioli (MSc, 2025--; co-supervised with Marco Peressotti)
 - Joachim Tilsted Kristensen (PhD at University of Oslo, 2022--; co-supervised with Michael
@@ -37,15 +38,18 @@ enclose your CV and publication list).
 - Rohan Nittur (MInf, 2022)
 - Wei Zhen Peong (MInf, 2022)
 - Mingrui Zou (MInf, 2022)
-- Victor Antonio López Martínez (MSc, 2022)
+- Victor Antonio López Martínez (MSc, 2022; co-supervised with Fritz
+  Henglein)
 - Mikkel Kragh Mathiesen (PhD, 2023; co-supervised with Fritz
   Henglein 2021--2023)
-- Jeppe Werner Laursen (MSc, 2021)
+- Jeppe Werner Laursen (MSc, 2021; co-supervised with
+  Michael Kirkedal Thomsen)
 - Marco Aslak Persson (BSc, 2019)
 - Trine Dag Randløv (BSc, 2019)
 - Alexander Meinhardt Scheurer (BSc, 2019)
 - Jonathan Wraa-Hansen (BSc, 2019)
-- Petur Andrias Højgaard Jacobsen (MSc, 2018)
-- Xiaomo Yao (MSc, 2018)
+- Petur Andrias Højgaard Jacobsen (MSc, 2018; co-supervised with
+  Michael Kirkedal Thomsen)
+- Xiaomo Yao (MSc, 2018; co-supervised with Robert Glück)
 - Anders Frederik Jørgensen (BSc, 2018)
 - Lars-Bo Vadgaard Nielsen (BSc, 2018)
