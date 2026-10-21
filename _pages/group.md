@@ -18,16 +18,16 @@ enclose your CV and publication list).
 
 ### Current students and postdocs
 
-- Filippo Barbieri (MSc ISA, 2026--) 
+- Filippo Barbieri (MSc ISA, 2026--)
 - Mark Damon Walker (PhD at University of Southern Denmark, 2026--)
 - Benjamin Clausen Bennetzen (PhD at Aalborg University, 2025--; co-supervised with Giorgio Bacci)
-- Giacomo Fagioli (MSc, 2025--; co-supervised with Marco Peressotti)
 - Joachim Tilsted Kristensen (PhD at University of Oslo, 2022--; co-supervised with Michael Kirkedal Thomsen)
 - Malin Altenmüller (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
 - Louis Lemonier (postdoc at University of Edinburgh, 2024--; co-advised with Chris Heunen)
 
 ### Former students and postdocs
 
+- Giacomo Fagioli (MSc, 2025--2026; co-supervised with Marco Peressotti)
 - Wang Fang (postdoc at University of Edinburgh, 2024--2026; co-advised with Chris Heunen)
 - Paul Schwartz (MSc, 2025; BSc 2023)
 - Simon Bang (MSc, 2025; BSc 2023)
