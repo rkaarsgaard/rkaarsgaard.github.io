@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <em>A Complete Calculus for Hamiltonian Quantum Programming</em> was accepted for <a href="https://popl27.sigplan.org/">POPL 2027</a> in Mexico City!
+Our paper <em><a href="https://arxiv.org/pdf/2611.08675">A Complete Calculus for Hamiltonian Quantum Programming</a></em> was accepted for <a href="https://popl27.sigplan.org/">POPL 2027</a> in Mexico City!
